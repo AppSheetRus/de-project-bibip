@@ -1,6 +1,4 @@
 from models import Car, CarFullInfo, CarStatus, Model, ModelSaleStats, Sale
-from decimal import Decimal  # удалить
-from datetime import datetime  # удалить
 import shutil
 import os
 
