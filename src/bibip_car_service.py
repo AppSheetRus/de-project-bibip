@@ -1,6 +1,6 @@
-from models import Car, CarFullInfo, CarStatus, Model, ModelSaleStats, Sale
-import shutil
 import os
+import shutil
+from models import Car, CarFullInfo, CarStatus, Model, ModelSaleStats, Sale
 
 
 class CarService:
